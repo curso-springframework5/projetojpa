@@ -1,6 +1,4 @@
 # projetojpa
 
-Projeto feito com JPA
-
-Basta executar o projeto no STS
+Projeto do módulo de Spring web
 
