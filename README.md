@@ -1,4 +1,4 @@
 # projetojpa
 
-Projeto do módulo de Spring web
+Projeto do módulo de Spring web.
 
